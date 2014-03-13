@@ -1,8 +1,18 @@
 What is Software Quality Assurance
 I never learnt this course before. But I can figure out what the course is about
 from it's name. Just like the name, I think it is about something how to ensure the software quality.
-Business software is never built overnight. It takes a lot of planning, consultation and testing to be able to come up with an initial version of the application. If a business hurries up the development of a certain application, they would end up spending more in addressing the problem the application brought than they have earned.
-This could even be more frustrating when the software being developed is set to be sold to customers or for public use. But a bug free program is not the only goal of a company. If they follow that concept they would end up developing a very simple program without any special features and would frustrate their users and hinder their productivity.
-That is where the concept of software quality assurance comes in. For most developers software quality assurance offers a comprehensive solution in ensuring that the application they are working on is functioning and lives up to expectations.
-Quality assurance could be found everywhere. Products in the market also undergo quality assurance to make sure the goods are made according to expectations. However, once the products are sent out to the market, they are already done and it is up to the customers on how to be satisfied with the product.
-On the other hand software quality assurance takes on a different side. Aside from delivering good products, software quality assurance or simply known as   follows a set protocols that are universally recognized. By using these protocols users are assured the application they are using are built according to standards and every stage of software development follows the same standards.
+Business software is never built overnight. It takes a lot of planning, consultation and testing to be
+able to come up with an initial version of the application. If a business hurries up the development
+of a certain application, they would end up spending more in addressing the problem the application brought than they have earned.
+This could even be more frustrating when the software being developed is set to be sold to customers
+or for public use. But a bug free program is not the only goal of a company. If they follow that concept they would end up developing a very simple program without any special features and would frustrate their users and hinder their productivity.
+That is where the concept of software quality assurance comes in. For most developers software
+quality assurance offers a comprehensive solution in ensuring that the application they are working
+on is functioning and lives up to expectations.
+Quality assurance could be found everywhere. Products in the market also undergo quality assurance
+to make sure the goods are made according to expectations. However, once the products are sent out
+to the market, they are already done and it is up to the customers on how to be satisfied with the product.
+On the other hand software quality assurance takes on a different side. Aside from delivering good
+products, software quality assurance or simply known as   follows a set protocols that are universally
+recognized. By using these protocols users are assured the application they are using are built
+according to standards and every stage of software development follows the same standards.
