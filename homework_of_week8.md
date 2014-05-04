@@ -1,14 +1,14 @@
-###How to Ensure the Quality of a Software System###
+##How to Ensure the Quality of a Software System##
 
     Lufei 13126112  danseqianbi@gmail.com
     
-##Background
+###Background
 
   - I have learnt Software Quality Asurance this semester
   - I an working as a project intern in Amazon and have a little practice of QA
   - I will talk about how to ensure the quality of a software system in short according to my view
   
-##main points
+###main points
 
   - Move QA before coding 
   
