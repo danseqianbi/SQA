@@ -18,7 +18,7 @@ That’s right.  We are assuring quality of the whole result, not just the code.
 Everyone is so caught up with unit testing and TDD, but full-system testing is the only type of testing that gives close to the coverage the system will experience in a production environment.  If you aren’t doing any type of automated testing, start with full-system testing, not unit tests.
 
   - Do Code Review
-  - 
+
 Peer review -- an activity in which people other than the author of a software deliverable examine it for defects and improvement opportunities -- is one of the most powerful software quality tools available. Peer review methods include inspections, walkthroughs, peer deskchecks, and other similar activities.
 
 Software testing alone has limited effectiveness -- It is said that the average defect detection rate is only 25 percent for unit testing, 35 percent for function testing, and 45 percent for integration testing. In contrast, the average effectiveness of design and code inspections are 55 and 60 percent. The only hurdle to a code review is finding a developer you respect to do it, and making the time to perform the review. Once you get started, I think you'll quickly find that every minute you spend in a code review is paid back tenfold.
